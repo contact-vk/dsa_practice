@@ -1,0 +1,5 @@
+# All Idea related files and folders
+.gradle/*
+.idea/*
+out/*
+*.iml
